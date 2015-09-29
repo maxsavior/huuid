@@ -1,6 +1,9 @@
 # huuid
 A web application which shows a static string of UUID.
 
+###  huuidstart
+Shell script to start web application when container run up.
+
 ### update.sh
 Shell script for update the static UUID in "src/index.html".
 
